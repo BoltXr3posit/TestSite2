@@ -1,0 +1,23 @@
+- index.php
+
+- pages
+  - index_loggedout.php
+  - login.php
+  - login_check.php
+  - register.php
+  - page1.php
+  - page2.php
+
+- includes
+  - create_database.php
+  - create_table.php
+
+- css
+  - styles.css
+
+- js
+  - jquery.min.js (Assuming you're using jQuery, required for some functionalities)
+  - validation.js
+
+- images
+  - (Place your website's images in this folder)
